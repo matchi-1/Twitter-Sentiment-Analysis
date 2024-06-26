@@ -11,7 +11,7 @@ Dataset Link (Kaggle): [Twitter-Sentiment-Analysis](https://www.kaggle.com/datas
 <br>
 
 ### About the Twitter Sentiment Analysis
-<b>Highest Accuracy Score</b>: 93.1% (Random Forest model)
+<b>Highest Accuracy Score</b>: 93.2% (Random Forest model)
 
 This notebook conducts Twitter sentiment analysis using machine learning. It includes data exploration, text preprocessing, and the training/testing of four models (Random Forest, KNN, Passive Aggressive Classifier, and Logistic Regression).
 
