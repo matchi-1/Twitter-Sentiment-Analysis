@@ -8,6 +8,7 @@ Dataset Link (Kaggle): [Twitter-Sentiment-Analysis](https://www.kaggle.com/datas
 
 <i>"This is an entity-level sentiment analysis dataset of twitter. Given a message and an entity, the task is to judge the sentiment of the message about the entity. There are three classes in this dataset: Positive, Negative and Neutral. We regard messages that are not relevant to the entity (i.e. Irrelevant) as Neutral."</i>
 
+<br>
 
 ### About the Twitter Sentiment Analysis
 <b>Highest Accuracy Score</b>: 93.1% (Random Forest model)
